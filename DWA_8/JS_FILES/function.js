@@ -1,11 +1,3 @@
-/* eslint-disable no-restricted-syntax */
-/* eslint-disable consistent-return */
-/* eslint-disable operator-linebreak */
-/* eslint-disable no-shadow */
-/* eslint-disable no-tabs */
-/* eslint-disable import/no-cycle */
-/* eslint-disable import/extensions */
-/* eslint linebreak-style: ["error", "windows"] */
 import {
     books, genres, authors, BOOKS_PER_PAGE,
   } from './data.js';
